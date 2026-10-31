@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="zh"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>选址雷达 · 淬练 TEMPER</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css?v=20261029c">
+</head><body>
+<header>
+  <h1>选址雷达 <span class="brand">淬练 TEMPER · 24h 智能健身</span></h1>
+  <div class="bar">
+    <select id="citySel"></select>
+    <div id="budgetBar" class="budget"></div>
+    <span id="scanInfo" class="meta"></span>
+  </div>
+  <nav>
+    <button class="on" data-t="decision">决策</button>
+    <button data-t="visit">看场清单</button>
+    <button data-t="rank">排序全表</button>
+    <button data-t="map">地图</button>
+    <button data-t="field">现场作业</button>
+    <button data-t="county">百强县榜</button>
+  </nav>
+</header>
+<main>
+  <section id="decision"></section>
+  <section id="visit" class="hide"></section>
+  <section id="rank" class="hide"></section>
+  <section id="map" class="hide"><div id="mapCanvas"></div><div class="legend" id="legend"></div></section>
+  <section id="field" class="hide"></section>
+  <section id="county" class="hide"></section>
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script type="module" src="app.js?v=202610311716"></script>
+</body></html>

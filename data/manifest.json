@@ -1,0 +1,1355 @@
+{
+ "version": 1,
+ "cities": [
+  {
+   "city": "慈溪市",
+   "adcode": "330282",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 16,
+   "n_hotspots": 7,
+   "n_competitors": 169,
+   "poi_counts": {
+    "comp": 169,
+    "youth": 430,
+    "wealth": 49,
+    "hot": 202
+   }
+  },
+  {
+   "city": "瑞安市",
+   "adcode": "330381",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 24,
+   "n_hotspots": 4,
+   "n_competitors": 167,
+   "poi_counts": {
+    "comp": 167,
+    "youth": 410,
+    "wealth": 21,
+    "hot": 180
+   }
+  },
+  {
+   "city": "余姚市",
+   "adcode": "330281",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 21,
+   "n_hotspots": 5,
+   "n_competitors": 111,
+   "poi_counts": {
+    "comp": 111,
+    "youth": 362,
+    "wealth": 35,
+    "hot": 165
+   }
+  },
+  {
+   "city": "昆山市",
+   "adcode": "320583",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 17,
+   "n_hotspots": 9,
+   "n_competitors": 229,
+   "poi_counts": {
+    "comp": 229,
+    "youth": 492,
+    "wealth": 86,
+    "hot": 296
+   }
+  },
+  {
+   "city": "江阴市",
+   "adcode": "320281",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 16,
+   "n_hotspots": 4,
+   "n_competitors": 169,
+   "poi_counts": {
+    "comp": 169,
+    "youth": 413,
+    "wealth": 117,
+    "hot": 162
+   }
+  },
+  {
+   "city": "张家港市",
+   "adcode": "320582",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 17,
+   "n_hotspots": 6,
+   "n_competitors": 130,
+   "poi_counts": {
+    "comp": 130,
+    "youth": 351,
+    "wealth": 26,
+    "hot": 103
+   }
+  },
+  {
+   "city": "晋江市",
+   "adcode": "350582",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 25,
+   "n_hotspots": 3,
+   "n_competitors": 199,
+   "poi_counts": {
+    "comp": 199,
+    "youth": 436,
+    "wealth": 156,
+    "hot": 131
+   }
+  },
+  {
+   "city": "龙口市",
+   "adcode": "370681",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 21,
+   "n_hotspots": 1,
+   "n_competitors": 52,
+   "poi_counts": {
+    "comp": 52,
+    "youth": 310,
+    "wealth": 17,
+    "hot": 91
+   }
+  },
+  {
+   "city": "常熟市",
+   "adcode": "320581",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 23,
+   "n_hotspots": 8,
+   "n_competitors": 115,
+   "poi_counts": {
+    "comp": 115,
+    "youth": 434,
+    "wealth": 31,
+    "hot": 186
+   }
+  },
+  {
+   "city": "宜兴市",
+   "adcode": "320282",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 22,
+   "n_hotspots": 6,
+   "n_competitors": 127,
+   "poi_counts": {
+    "comp": 127,
+    "youth": 396,
+    "wealth": 96,
+    "hot": 98
+   }
+  },
+  {
+   "city": "太仓市",
+   "adcode": "320585",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 23,
+   "n_hotspots": 5,
+   "n_competitors": 83,
+   "poi_counts": {
+    "comp": 83,
+    "youth": 348,
+    "wealth": 19,
+    "hot": 102
+   }
+  },
+  {
+   "city": "长沙县",
+   "adcode": "430121",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 25,
+   "n_hotspots": 7,
+   "n_competitors": 149,
+   "poi_counts": {
+    "comp": 149,
+    "youth": 473,
+    "wealth": 95,
+    "hot": 123
+   }
+  },
+  {
+   "city": "义乌市",
+   "adcode": "330782",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 25,
+   "n_hotspots": 6,
+   "n_competitors": 227,
+   "poi_counts": {
+    "comp": 227,
+    "youth": 438,
+    "wealth": 83,
+    "hot": 268
+   }
+  },
+  {
+   "city": "诸暨市",
+   "adcode": "330681",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 25,
+   "n_hotspots": 8,
+   "n_competitors": 125,
+   "poi_counts": {
+    "comp": 125,
+    "youth": 402,
+    "wealth": 34,
+    "hot": 187
+   }
+  },
+  {
+   "city": "福清市",
+   "adcode": "350181",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 22,
+   "n_hotspots": 5,
+   "n_competitors": 82,
+   "poi_counts": {
+    "comp": 82,
+    "youth": 416,
+    "wealth": 111,
+    "hot": 123
+   }
+  },
+  {
+   "city": "乐清市",
+   "adcode": "330382",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 24,
+   "n_hotspots": 4,
+   "n_competitors": 133,
+   "poi_counts": {
+    "comp": 133,
+    "youth": 440,
+    "wealth": 31,
+    "hot": 173
+   }
+  },
+  {
+   "city": "海宁市",
+   "adcode": "330481",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:57",
+   "n_candidates": 25,
+   "n_hotspots": 5,
+   "n_competitors": 100,
+   "poi_counts": {
+    "comp": 100,
+    "youth": 397,
+    "wealth": 29,
+    "hot": 200
+   }
+  },
+  {
+   "city": "胶州市",
+   "adcode": "370281",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 17,
+   "n_hotspots": 2,
+   "n_competitors": 81,
+   "poi_counts": {
+    "comp": 81,
+    "youth": 361,
+    "wealth": 27,
+    "hot": 98
+   }
+  },
+  {
+   "city": "温岭市",
+   "adcode": "331081",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 14,
+   "n_hotspots": 5,
+   "n_competitors": 90,
+   "poi_counts": {
+    "comp": 90,
+    "youth": 364,
+    "wealth": 33,
+    "hot": 219
+   }
+  },
+  {
+   "city": "南安市",
+   "adcode": "350583",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 18,
+   "n_hotspots": 1,
+   "n_competitors": 100,
+   "poi_counts": {
+    "comp": 100,
+    "youth": 402,
+    "wealth": 164,
+    "hot": 94
+   }
+  },
+  {
+   "city": "如皋市",
+   "adcode": "320682",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 17,
+   "n_hotspots": 4,
+   "n_competitors": 68,
+   "poi_counts": {
+    "comp": 68,
+    "youth": 355,
+    "wealth": 40,
+    "hot": 105
+   }
+  },
+  {
+   "city": "浏阳市",
+   "adcode": "430181",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 22,
+   "n_hotspots": 7,
+   "n_competitors": 79,
+   "poi_counts": {
+    "comp": 79,
+    "youth": 415,
+    "wealth": 46,
+    "hot": 106
+   }
+  },
+  {
+   "city": "桐乡市",
+   "adcode": "330483",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 25,
+   "n_hotspots": 7,
+   "n_competitors": 100,
+   "poi_counts": {
+    "comp": 100,
+    "youth": 382,
+    "wealth": 23,
+    "hot": 128
+   }
+  },
+  {
+   "city": "海安市",
+   "adcode": "320685",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 22,
+   "n_hotspots": 3,
+   "n_competitors": 45,
+   "poi_counts": {
+    "comp": 45,
+    "youth": 362,
+    "wealth": 8,
+    "hot": 105
+   }
+  },
+  {
+   "city": "启东市",
+   "adcode": "320681",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 25,
+   "n_hotspots": 4,
+   "n_competitors": 47,
+   "poi_counts": {
+    "comp": 47,
+    "youth": 378,
+    "wealth": 34,
+    "hot": 95
+   }
+  },
+  {
+   "city": "宁乡市",
+   "adcode": "430182",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 20,
+   "n_hotspots": 6,
+   "n_competitors": 43,
+   "poi_counts": {
+    "comp": 43,
+    "youth": 324,
+    "wealth": 85,
+    "hot": 86
+   }
+  },
+  {
+   "city": "丹阳市",
+   "adcode": "321181",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 23,
+   "n_hotspots": 1,
+   "n_competitors": 100,
+   "poi_counts": {
+    "comp": 100,
+    "youth": 380,
+    "wealth": 101,
+    "hot": 98
+   }
+  },
+  {
+   "city": "溧阳市",
+   "adcode": "320481",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 19,
+   "n_hotspots": 4,
+   "n_competitors": 57,
+   "poi_counts": {
+    "comp": 57,
+    "youth": 350,
+    "wealth": 96,
+    "hot": 117
+   }
+  },
+  {
+   "city": "神木市",
+   "adcode": "610881",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 16,
+   "n_hotspots": 4,
+   "n_competitors": 24,
+   "poi_counts": {
+    "comp": 24,
+    "youth": 262,
+    "wealth": 85,
+    "hot": 110
+   }
+  },
+  {
+   "city": "迁安市",
+   "adcode": "130283",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 15,
+   "n_hotspots": 3,
+   "n_competitors": 40,
+   "poi_counts": {
+    "comp": 40,
+    "youth": 265,
+    "wealth": 85,
+    "hot": 90
+   }
+  },
+  {
+   "city": "惠安县",
+   "adcode": "350521",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 15,
+   "n_hotspots": 2,
+   "n_competitors": 53,
+   "poi_counts": {
+    "comp": 53,
+    "youth": 345,
+    "wealth": 128,
+    "hot": 92
+   }
+  },
+  {
+   "city": "泰兴市",
+   "adcode": "321283",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 20,
+   "n_hotspots": 7,
+   "n_competitors": 53,
+   "poi_counts": {
+    "comp": 53,
+    "youth": 370,
+    "wealth": 98,
+    "hot": 141
+   }
+  },
+  {
+   "city": "靖江市",
+   "adcode": "321282",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 21,
+   "n_hotspots": 4,
+   "n_competitors": 73,
+   "poi_counts": {
+    "comp": 73,
+    "youth": 355,
+    "wealth": 103,
+    "hot": 92
+   }
+  },
+  {
+   "city": "东台市",
+   "adcode": "320981",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 17,
+   "n_hotspots": 2,
+   "n_competitors": 37,
+   "poi_counts": {
+    "comp": 37,
+    "youth": 333,
+    "wealth": 97,
+    "hot": 88
+   }
+  },
+  {
+   "city": "如东县",
+   "adcode": "320623",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 17,
+   "n_hotspots": 1,
+   "n_competitors": 38,
+   "poi_counts": {
+    "comp": 38,
+    "youth": 306,
+    "wealth": 10,
+    "hot": 110
+   }
+  },
+  {
+   "city": "石狮市",
+   "adcode": "350581",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 22,
+   "n_hotspots": 4,
+   "n_competitors": 89,
+   "poi_counts": {
+    "comp": 89,
+    "youth": 365,
+    "wealth": 144,
+    "hot": 122
+   }
+  },
+  {
+   "city": "准格尔旗",
+   "adcode": "150622",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 13,
+   "n_hotspots": 2,
+   "n_competitors": 12,
+   "poi_counts": {
+    "comp": 12,
+    "youth": 225,
+    "wealth": 79,
+    "hot": 51
+   }
+  },
+  {
+   "city": "平湖市",
+   "adcode": "330482",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 22,
+   "n_hotspots": 2,
+   "n_competitors": 50,
+   "poi_counts": {
+    "comp": 50,
+    "youth": 345,
+    "wealth": 11,
+    "hot": 180
+   }
+  },
+  {
+   "city": "南昌县",
+   "adcode": "360121",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 25,
+   "n_hotspots": 4,
+   "n_competitors": 131,
+   "poi_counts": {
+    "comp": 131,
+    "youth": 427,
+    "wealth": 175,
+    "hot": 108
+   }
+  },
+  {
+   "city": "荣成市",
+   "adcode": "371082",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 16,
+   "n_hotspots": 3,
+   "n_competitors": 47,
+   "poi_counts": {
+    "comp": 47,
+    "youth": 348,
+    "wealth": 15,
+    "hot": 95
+   }
+  },
+  {
+   "city": "仁怀市",
+   "adcode": "520382",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 11,
+   "n_hotspots": 3,
+   "n_competitors": 21,
+   "poi_counts": {
+    "comp": 21,
+    "youth": 268,
+    "wealth": 76,
+    "hot": 88
+   }
+  },
+  {
+   "city": "滕州市",
+   "adcode": "370481",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 23,
+   "n_hotspots": 3,
+   "n_competitors": 91,
+   "poi_counts": {
+    "comp": 91,
+    "youth": 381,
+    "wealth": 14,
+    "hot": 106
+   }
+  },
+  {
+   "city": "宁海县",
+   "adcode": "330226",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 18,
+   "n_hotspots": 3,
+   "n_competitors": 43,
+   "poi_counts": {
+    "comp": 43,
+    "youth": 277,
+    "wealth": 15,
+    "hot": 52
+   }
+  },
+  {
+   "city": "寿光市",
+   "adcode": "370783",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 22,
+   "n_hotspots": 3,
+   "n_competitors": 56,
+   "poi_counts": {
+    "comp": 56,
+    "youth": 368,
+    "wealth": 14,
+    "hot": 108
+   }
+  },
+  {
+   "city": "邳州市",
+   "adcode": "320382",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 14,
+   "n_hotspots": 4,
+   "n_competitors": 53,
+   "poi_counts": {
+    "comp": 53,
+    "youth": 390,
+    "wealth": 42,
+    "hot": 103
+   }
+  },
+  {
+   "city": "邹城市",
+   "adcode": "370883",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 20,
+   "n_hotspots": 2,
+   "n_competitors": 40,
+   "poi_counts": {
+    "comp": 40,
+    "youth": 315,
+    "wealth": 90,
+    "hot": 99
+   }
+  },
+  {
+   "city": "巩义市",
+   "adcode": "410181",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 9,
+   "n_hotspots": 3,
+   "n_competitors": 48,
+   "poi_counts": {
+    "comp": 48,
+    "youth": 197,
+    "wealth": 8,
+    "hot": 57
+   }
+  },
+  {
+   "city": "招远市",
+   "adcode": "370685",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 10,
+   "n_hotspots": 4,
+   "n_competitors": 32,
+   "poi_counts": {
+    "comp": 32,
+    "youth": 191,
+    "wealth": 5,
+    "hot": 85
+   }
+  },
+  {
+   "city": "仪征市",
+   "adcode": "321081",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 16,
+   "n_hotspots": 2,
+   "n_competitors": 29,
+   "poi_counts": {
+    "comp": 29,
+    "youth": 322,
+    "wealth": 93,
+    "hot": 104
+   }
+  },
+  {
+   "city": "闽侯县",
+   "adcode": "350121",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 25,
+   "n_hotspots": 4,
+   "n_competitors": 113,
+   "poi_counts": {
+    "comp": 113,
+    "youth": 445,
+    "wealth": 146,
+    "hot": 90
+   }
+  },
+  {
+   "city": "大冶市",
+   "adcode": "420281",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 22,
+   "n_hotspots": 3,
+   "n_competitors": 34,
+   "poi_counts": {
+    "comp": 34,
+    "youth": 398,
+    "wealth": 75,
+    "hot": 91
+   }
+  },
+  {
+   "city": "肥西县",
+   "adcode": "340123",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 25,
+   "n_hotspots": 4,
+   "n_competitors": 67,
+   "poi_counts": {
+    "comp": 67,
+    "youth": 344,
+    "wealth": 93,
+    "hot": 68
+   }
+  },
+  {
+   "city": "嘉善县",
+   "adcode": "330421",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 25,
+   "n_hotspots": 4,
+   "n_competitors": 65,
+   "poi_counts": {
+    "comp": 65,
+    "youth": 354,
+    "wealth": 14,
+    "hot": 177
+   }
+  },
+  {
+   "city": "诸城市",
+   "adcode": "370782",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 18,
+   "n_hotspots": 4,
+   "n_competitors": 36,
+   "poi_counts": {
+    "comp": 36,
+    "youth": 291,
+    "wealth": 11,
+    "hot": 98
+   }
+  },
+  {
+   "city": "瓦房店市",
+   "adcode": "210281",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 9,
+   "n_hotspots": 3,
+   "n_competitors": 34,
+   "poi_counts": {
+    "comp": 34,
+    "youth": 210,
+    "wealth": 11,
+    "hot": 96
+   }
+  },
+  {
+   "city": "长兴县",
+   "adcode": "330522",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:58",
+   "n_candidates": 17,
+   "n_hotspots": 3,
+   "n_competitors": 44,
+   "poi_counts": {
+    "comp": 44,
+    "youth": 371,
+    "wealth": 96,
+    "hot": 104
+   }
+  },
+  {
+   "city": "高邮市",
+   "adcode": "321084",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 20,
+   "n_hotspots": 3,
+   "n_competitors": 37,
+   "poi_counts": {
+    "comp": 37,
+    "youth": 313,
+    "wealth": 89,
+    "hot": 99
+   }
+  },
+  {
+   "city": "永城市",
+   "adcode": "411481",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 10,
+   "n_hotspots": 3,
+   "n_competitors": 42,
+   "poi_counts": {
+    "comp": 42,
+    "youth": 215,
+    "wealth": 93,
+    "hot": 109
+   }
+  },
+  {
+   "city": "沭阳县",
+   "adcode": "321322",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 16,
+   "n_hotspots": 3,
+   "n_competitors": 56,
+   "poi_counts": {
+    "comp": 56,
+    "youth": 414,
+    "wealth": 17,
+    "hot": 102
+   }
+  },
+  {
+   "city": "宜都市",
+   "adcode": "420581",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 13,
+   "n_hotspots": 2,
+   "n_competitors": 11,
+   "poi_counts": {
+    "comp": 11,
+    "youth": 207,
+    "wealth": 1,
+    "hot": 32
+   }
+  },
+  {
+   "city": "兴化市",
+   "adcode": "321281",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 17,
+   "n_hotspots": 3,
+   "n_competitors": 70,
+   "poi_counts": {
+    "comp": 70,
+    "youth": 396,
+    "wealth": 115,
+    "hot": 101
+   }
+  },
+  {
+   "city": "沛县",
+   "adcode": "320322",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 12,
+   "n_hotspots": 1,
+   "n_competitors": 43,
+   "poi_counts": {
+    "comp": 43,
+    "youth": 274,
+    "wealth": 7,
+    "hot": 95
+   }
+  },
+  {
+   "city": "永康市",
+   "adcode": "330784",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 23,
+   "n_hotspots": 3,
+   "n_competitors": 94,
+   "poi_counts": {
+    "comp": 94,
+    "youth": 373,
+    "wealth": 24,
+    "hot": 178
+   }
+  },
+  {
+   "city": "平度市",
+   "adcode": "370283",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 16,
+   "n_hotspots": 1,
+   "n_competitors": 54,
+   "poi_counts": {
+    "comp": 54,
+    "youth": 297,
+    "wealth": 6,
+    "hot": 54
+   }
+  },
+  {
+   "city": "博罗县",
+   "adcode": "441322",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 25,
+   "n_hotspots": 5,
+   "n_competitors": 96,
+   "poi_counts": {
+    "comp": 96,
+    "youth": 461,
+    "wealth": 64,
+    "hot": 131
+   }
+  },
+  {
+   "city": "肥东县",
+   "adcode": "340122",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 23,
+   "n_hotspots": 3,
+   "n_competitors": 48,
+   "poi_counts": {
+    "comp": 48,
+    "youth": 324,
+    "wealth": 84,
+    "hot": 51
+   }
+  },
+  {
+   "city": "射阳县",
+   "adcode": "320924",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 14,
+   "n_hotspots": 3,
+   "n_competitors": 32,
+   "poi_counts": {
+    "comp": 32,
+    "youth": 321,
+    "wealth": 86,
+    "hot": 93
+   }
+  },
+  {
+   "city": "中牟县",
+   "adcode": "410122",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 20,
+   "n_hotspots": 6,
+   "n_competitors": 97,
+   "poi_counts": {
+    "comp": 97,
+    "youth": 453,
+    "wealth": 17,
+    "hot": 117
+   }
+  },
+  {
+   "city": "任丘市",
+   "adcode": "130982",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 11,
+   "n_hotspots": 2,
+   "n_competitors": 47,
+   "poi_counts": {
+    "comp": 47,
+    "youth": 281,
+    "wealth": 83,
+    "hot": 82
+   }
+  },
+  {
+   "city": "长丰县",
+   "adcode": "340121",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 15,
+   "n_hotspots": 4,
+   "n_competitors": 44,
+   "poi_counts": {
+    "comp": 44,
+    "youth": 273,
+    "wealth": 93,
+    "hot": 50
+   }
+  },
+  {
+   "city": "枣阳市",
+   "adcode": "420683",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 15,
+   "n_hotspots": 2,
+   "n_competitors": 21,
+   "poi_counts": {
+    "comp": 21,
+    "youth": 271,
+    "wealth": 83,
+    "hot": 70
+   }
+  },
+  {
+   "city": "建湖县",
+   "adcode": "320925",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 10,
+   "n_hotspots": 5,
+   "n_competitors": 19,
+   "poi_counts": {
+    "comp": 19,
+    "youth": 246,
+    "wealth": 86,
+    "hot": 67
+   }
+  },
+  {
+   "city": "安溪县",
+   "adcode": "350524",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 15,
+   "n_hotspots": 4,
+   "n_competitors": 40,
+   "poi_counts": {
+    "comp": 40,
+    "youth": 294,
+    "wealth": 103,
+    "hot": 101
+   }
+  },
+  {
+   "city": "黄骅市",
+   "adcode": "130983",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 19,
+   "n_hotspots": 2,
+   "n_competitors": 48,
+   "poi_counts": {
+    "comp": 48,
+    "youth": 377,
+    "wealth": 96,
+    "hot": 91
+   }
+  },
+  {
+   "city": "枝江市",
+   "adcode": "420583",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 8,
+   "n_hotspots": 1,
+   "n_competitors": 12,
+   "poi_counts": {
+    "comp": 12,
+    "youth": 193,
+    "wealth": 3,
+    "hot": 16
+   }
+  },
+  {
+   "city": "新昌县",
+   "adcode": "330624",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 17,
+   "n_hotspots": 2,
+   "n_competitors": 23,
+   "poi_counts": {
+    "comp": 23,
+    "youth": 232,
+    "wealth": 12,
+    "hot": 52
+   }
+  },
+  {
+   "city": "武安市",
+   "adcode": "130481",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 12,
+   "n_hotspots": 3,
+   "n_competitors": 22,
+   "poi_counts": {
+    "comp": 22,
+    "youth": 245,
+    "wealth": 9,
+    "hot": 40
+   }
+  },
+  {
+   "city": "桐庐县",
+   "adcode": "330122",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 13,
+   "n_hotspots": 5,
+   "n_competitors": 32,
+   "poi_counts": {
+    "comp": 32,
+    "youth": 206,
+    "wealth": 26,
+    "hot": 71
+   }
+  },
+  {
+   "city": "广饶县",
+   "adcode": "370523",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 11,
+   "n_hotspots": 1,
+   "n_competitors": 30,
+   "poi_counts": {
+    "comp": 30,
+    "youth": 244,
+    "wealth": 79,
+    "hot": 83
+   }
+  },
+  {
+   "city": "东阳市",
+   "adcode": "330783",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 25,
+   "n_hotspots": 4,
+   "n_competitors": 105,
+   "poi_counts": {
+    "comp": 105,
+    "youth": 393,
+    "wealth": 84,
+    "hot": 201
+   }
+  },
+  {
+   "city": "肥城市",
+   "adcode": "370983",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 15,
+   "n_hotspots": 2,
+   "n_competitors": 20,
+   "poi_counts": {
+    "comp": 20,
+    "youth": 352,
+    "wealth": 84,
+    "hot": 91
+   }
+  },
+  {
+   "city": "三河市",
+   "adcode": "131082",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 25,
+   "n_hotspots": 6,
+   "n_competitors": 121,
+   "poi_counts": {
+    "comp": 121,
+    "youth": 397,
+    "wealth": 60,
+    "hot": 96
+   }
+  },
+  {
+   "city": "延吉市",
+   "adcode": "222401",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 21,
+   "n_hotspots": 3,
+   "n_competitors": 98,
+   "poi_counts": {
+    "comp": 98,
+    "youth": 301,
+    "wealth": 14,
+    "hot": 95
+   }
+  },
+  {
+   "city": "迁西县",
+   "adcode": "130227",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 3,
+   "n_hotspots": 1,
+   "n_competitors": 7,
+   "poi_counts": {
+    "comp": 7,
+    "youth": 67,
+    "wealth": 45,
+    "hot": 39
+   }
+  },
+  {
+   "city": "嵊州市",
+   "adcode": "330683",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 19,
+   "n_hotspots": 2,
+   "n_competitors": 46,
+   "poi_counts": {
+    "comp": 46,
+    "youth": 286,
+    "wealth": 20,
+    "hot": 80
+   }
+  },
+  {
+   "city": "大石桥市",
+   "adcode": "210882",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 7,
+   "n_hotspots": 2,
+   "n_competitors": 19,
+   "poi_counts": {
+    "comp": 19,
+    "youth": 108,
+    "wealth": 88,
+    "hot": 33
+   }
+  },
+  {
+   "city": "新郑市",
+   "adcode": "410184",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 24,
+   "n_hotspots": 2,
+   "n_competitors": 142,
+   "poi_counts": {
+    "comp": 142,
+    "youth": 459,
+    "wealth": 36,
+    "hot": 103
+   }
+  },
+  {
+   "city": "海门市",
+   "adcode": "320614",
+   "level": "三线",
+   "scanned_at": "2026-10-31T17:12:59",
+   "n_candidates": 15,
+   "n_hotspots": 4,
+   "n_competitors": 45,
+   "poi_counts": {
+    "comp": 45,
+    "youth": 326,
+    "wealth": 22,
+    "hot": 103
+   }
+  },
+  {
+   "city": "嘉兴市区·秀洲区",
+   "adcode": "330411",
+   "level": "三线",
+   "scanned_at": "2026-10-31T10:02:53",
+   "n_candidates": 19,
+   "n_hotspots": 7,
+   "n_competitors": 72,
+   "poi_counts": {
+    "comp": 72,
+    "youth": 363,
+    "wealth": 27,
+    "hot": 121
+   }
+  },
+  {
+   "city": "嘉兴市区·南湖区",
+   "adcode": "330402",
+   "level": "三线",
+   "scanned_at": "2026-10-31T10:02:10",
+   "n_candidates": 25,
+   "n_hotspots": 7,
+   "n_competitors": 172,
+   "poi_counts": {
+    "comp": 172,
+    "youth": 398,
+    "wealth": 36,
+    "hot": 137
+   }
+  }
+ ]
+}
