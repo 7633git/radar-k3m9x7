@@ -1,0 +1,32 @@
+{
+ "month": "2026-11",
+ "pools": [
+  {
+   "pool": "amap",
+   "desc": "高德搜索服务（月配额）",
+   "period": "month",
+   "since": "2026-11",
+   "limit": 5000,
+   "used": 79,
+   "remaining": 4921
+  },
+  {
+   "pool": "tencent",
+   "desc": "腾讯地点搜索（日配额，企业档）",
+   "period": "day",
+   "since": "2026-11-14",
+   "limit": 2000,
+   "used": 1967,
+   "remaining": 33
+  },
+  {
+   "pool": "tencent_geo",
+   "desc": "腾讯逆地理/行政区划（日配额）",
+   "period": "day",
+   "since": "2026-11-14",
+   "limit": 6000,
+   "used": 34,
+   "remaining": 5966
+  }
+ ]
+}
